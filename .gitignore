@@ -1,0 +1,6 @@
+*.o
+*.nro
+*.nro.so
+*.nso
+*.nso.so
+*~
